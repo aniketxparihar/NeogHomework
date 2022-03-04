@@ -1,7 +1,7 @@
 # NeogHomework
 ## [Async Await Exercises](https://codepen.io/aniketxparihar/pen/WNXLexr?editors=0012)
 ## [Intro To React](https://codesandbox.io/s/inspiring-resonance-o7rnfz?file=/src/App.js)
-<!-- import "./styles.css";
+` import "./styles.css";
 import React,{useState} from "react";
 
 export default function App() {
@@ -38,5 +38,5 @@ export default function App() {
       <button onClick={()=>showPassword==="password"?setShowPassword("text"):setShowPassword("password")}>{showPassword==="password"?"Show Password":"Hide Password"}</button> */}
     </div>
   );
-} -->
+} `
 
