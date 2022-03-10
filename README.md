@@ -41,3 +41,4 @@ export default function App() {
 } `
 
 ## [useContext Exercise](https://codesandbox.io/s/usecontext-exercise-ejfjpj)
+## [useReducer Exercise](https://codesandbox.io/s/usecontext-exercises-3jjs59)
